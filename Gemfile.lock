@@ -156,6 +156,7 @@ GEM
     selenium-webdriver (3.141.0)
       childprocess (~> 0.5)
       rubyzip (~> 1.2, >= 1.2.2)
+    site_map (0.3.5)
     spring (2.0.2)
       activesupport (>= 4.2)
     spring-watcher-listen (2.0.1)
@@ -205,6 +206,7 @@ DEPENDENCIES
   rails (~> 5.2.1)
   sass-rails (~> 5.0)
   selenium-webdriver
+  site_map
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3
@@ -217,4 +219,4 @@ RUBY VERSION
    ruby 2.4.0p0
 
 BUNDLED WITH
-   1.16.1
+   1.17.1
